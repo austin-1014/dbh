@@ -16,4 +16,5 @@ Run `install_linux.sh`
 To use the script, run `dbh subcommand value_to_convert`
 
 A subcommand should be the first letter of the type of the input number and the first letter of the type of output number. 
+
 For example, converting binary to hexadecimal, the subcommand would be `bh`.
