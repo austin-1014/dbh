@@ -6,16 +6,27 @@ This is a terminal application to convert values between decimal, binary, and he
 
 - Supported OS
 	- Linux
+	- Windows 10
 - Rust's cargo package manager
 
 ## Installation
 ### Linux
 
-To install, download the repository using the green "code" button
+Download the repository using the green "code" button
+
+Unzip the downloaded folder
 
 In a terminal, run `chmod +x path/to/install_linux.sh`
 
 Run `install_linux.sh`
+
+### Windows
+
+Download the repository using the green "code" button
+
+Unzip the downloaded folder
+
+Run `install_windows.bat`
 
 ## Usage
 
