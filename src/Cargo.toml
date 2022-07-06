@@ -1,5 +1,5 @@
 [package]
-name = "hex"
+name = "dbh"
 version = "0.1.0"
 edition = "2021"
 
@@ -9,5 +9,5 @@ edition = "2021"
 num = "0.4.0"
 
 [[bin]]
-name = "hex"
-path = "hex.rs"
+name = "dbh"
+path = "dbh.rs"
