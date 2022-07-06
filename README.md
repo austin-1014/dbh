@@ -2,6 +2,12 @@
 
 This is a terminal application to convert values between decimal, binary, and hexadecimal formats.
 
+## Requirements
+
+- Supported OS
+	- Linux
+- Rust's cargo package manager
+
 ## Installation
 ### Linux
 
